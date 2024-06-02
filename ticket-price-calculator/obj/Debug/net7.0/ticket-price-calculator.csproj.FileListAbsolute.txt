@@ -1,0 +1,15 @@
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/ticket-price-calculator/bin/Debug/net7.0/ticket-price-calculator
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/ticket-price-calculator/bin/Debug/net7.0/ticket-price-calculator.deps.json
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/ticket-price-calculator/bin/Debug/net7.0/ticket-price-calculator.runtimeconfig.json
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/ticket-price-calculator/bin/Debug/net7.0/ticket-price-calculator.dll
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/ticket-price-calculator/bin/Debug/net7.0/ticket-price-calculator.pdb
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.csproj.AssemblyReference.cache
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.AssemblyInfoInputs.cache
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.AssemblyInfo.cs
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.csproj.CoreCompileInputs.cache
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.dll
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/ticket-price-calculator/obj/Debug/net7.0/refint/ticket-price-calculator.dll
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.pdb
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/ticket-price-calculator/obj/Debug/net7.0/ticket-price-calculator.genruntimeconfig.cache
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/ticket-price-calculator/obj/Debug/net7.0/ref/ticket-price-calculator.dll
