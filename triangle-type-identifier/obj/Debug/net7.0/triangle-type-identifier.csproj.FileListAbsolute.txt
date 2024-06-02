@@ -1,0 +1,15 @@
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/triangle-type-identifier/bin/Debug/net7.0/triangle-type-identifier
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/triangle-type-identifier/bin/Debug/net7.0/triangle-type-identifier.deps.json
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/triangle-type-identifier/bin/Debug/net7.0/triangle-type-identifier.runtimeconfig.json
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/triangle-type-identifier/bin/Debug/net7.0/triangle-type-identifier.dll
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/triangle-type-identifier/bin/Debug/net7.0/triangle-type-identifier.pdb
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.csproj.AssemblyReference.cache
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.AssemblyInfoInputs.cache
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.AssemblyInfo.cs
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.csproj.CoreCompileInputs.cache
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.dll
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/triangle-type-identifier/obj/Debug/net7.0/refint/triangle-type-identifier.dll
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.pdb
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/triangle-type-identifier/obj/Debug/net7.0/triangle-type-identifier.genruntimeconfig.cache
+/Users/carltonakussah/Projects/dcit318-assignment1-10968138/triangle-type-identifier/obj/Debug/net7.0/ref/triangle-type-identifier.dll
